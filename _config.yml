@@ -1,3 +1,16 @@
+layout_spectrum: 0.4516825322061777
+typography_spectrum: 0.8616913163568825
+color:
+  saturation: 0.8733926995191723
+  brandStrength: 0.19801974529400468
+  rhythmicContrast: 0.2024230659008026
+  brandColors:
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
+  lightness: 0.4169676264282316
 collections:
   - index:
       path: /
@@ -10,17 +23,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.0734767
-color:
-  saturation: 0.2013666441198438
-  brandStrength: 0.3853865370620042
-  rhythmicContrast: 0.5242604427039623
-  brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
-  lightness: 0.3414980296511203
-layout_spectrum: 0.0407199920155108
 name: Out of the Office
